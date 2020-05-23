@@ -4,3 +4,4 @@ inorder traversal: 98
 subsets: 78
 combination: 78
 permutation: 46
+vector<vector<int>>(size, value); vector<int>(size); 
