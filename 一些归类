@@ -14,3 +14,4 @@ two pointer: 283
 prority_queue & pair & map & 数字统计： 347
 爬楼梯思想：70（每到这一步，都有两种选择）；
 heap: max head就跟两个中间较大的比，min heap跟小的比。
+merge/quick sort: 912
